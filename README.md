@@ -8,7 +8,7 @@ Həll etdiyim məsələlərin həllərini burada paylaşıram. Məsələlərin h
 qəbul olunan həlləri yerləşdirirəm. Həllərlə bağlı yaranmış hər hansı problemi turalmehrali@gmail.com ünvanından mənə bildirə və ya
 github üzərindən redaktə edə bilərsiniz
 
-İrad və təklifləriniz üçün:
+İrad və təklifləriniz üçün: <br>
 https://www.facebook.com/mehralitural
 https://www.instagram.com/turalmehrali
 https://www.twitter.com/turalmehrali
