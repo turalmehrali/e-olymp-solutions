@@ -12,5 +12,4 @@ github üzərindən redaktə edə bilərsiniz
 https://www.facebook.com/mehralitural <br>
 https://www.instagram.com/turalmehrali <br>
 https://www.twitter.com/turalmehrali <br>
-https://www.linkedin.com/in/turalmehrali <br>
-turalmehrali@gmail.com
+https://www.linkedin.com/in/turalmehrali
