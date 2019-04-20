@@ -8,7 +8,7 @@ github üzərindən redaktə edə bilərsiniz
 
 <h3>Solutions to E-olymp problems</h3>
 
-I share solutions to E-olymp problems I have solved. Problem solving is typically written in Python, sometimes in C ++ and C #. It's just  100% i place the accepted solutions. Please report any problems with the solutions at turalmehrali@gmail.com
+I share solutions to E-olymp problems I have solved. Problem solving is typically written in Python, sometimes in C ++ and   C #. It's just  100% i place the accepted solutions. Please report any problems with the solutions at turalmehrali@gmail.com
 or via github
 
 İrad və təklifləriniz üçün: <br>
