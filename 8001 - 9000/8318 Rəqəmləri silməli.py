@@ -10,3 +10,25 @@ for i in n:
 print(*ededler, sep="")
 
 
+
+# variant 2
+
+
+"""
+
+
+
+n = input()
+ededler = []
+
+for i in n:
+    if i == "9" or i == "3":
+        pass
+    else:
+        ededler.append(i)
+
+
+print(*ededler, sep="")
+
+
+"""
